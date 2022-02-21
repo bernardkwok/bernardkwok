@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 This account is not active anymore.
 - You can find all my contributions at this account now: https://github.com/kwokcb/
-- Correspondance to bernard.kwok@autodesk.com should now to kwokcb@gmail.com
+- Correspondance to bernard.kwok@autodesk.com should now go to kwokcb@gmail.com
 
 Bernard Kwok
