@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **bernardkwok/bernardkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This account is not active anymore.
+- You can find all my contributions at this account now: https://github.com/kwokcb/
+- Correspondance to bernard.kwok@autodesk.com should now to kwokcb@gmail.com
+
+Bernard Kwok
